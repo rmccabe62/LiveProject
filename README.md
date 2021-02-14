@@ -4,6 +4,8 @@ Live Project
 
 Introduction 
 
+Guitar Shopping Application
+
  
 
 I participated in a two-week live project sprint along with my teammates to help build an overall project website. My particular task was to create a fully functioning application. I chose to create an application that would help a user who would be interested in shopping to buy themselves a new guitar. My application will help them research brands and models based on pricing. I used the programming language Python to help build the application. I also utilized the software program PyCharm to organize my code in an efficient matter. I am including some of my specific code to show the different pages within the application and the functions of the particular parts. 
