@@ -1,0 +1,17 @@
+{% extends "GuitarShopping/base.html" %}
+
+{% block title %}Guitar App - Guitar Details{% endblock %}
+
+{% block header %}Guitar Details{% endblock %}
+
+{% block content %}
+    <ul>
+        <li><label><b>Brand Name: </label>{{guitar.brand_name}}</b></li>
+        <li><label><b>Type: </label>{{guitar.instrument_type}}</b></li>
+        <li><label><b>Model: </label>{{guitar.model_choice}}</b></li>
+        <li><label><b>Price: </label>{{guitar.price}}</b></li>
+    </ul>
+
+
+
+{% endblock %}
