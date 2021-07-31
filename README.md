@@ -1,10 +1,13 @@
-Live Project 
+# Live Project 
 
  
 
-Introduction 
+## Introduction 
 
-Guitar Shopping Application
+The following is an internship that I participated in that involved two separate two week long live project sprints. The first one utilized python and Pycharm software.
+The second involved using C# and .Net framework to update a local theater group's website by creating a blog author's section to allow performance reviews.
+
+## [Guitar Shopping Application](https://github.com/rmccabe62/LiveProject/tree/master/GuitarShopping)
 
  
 
