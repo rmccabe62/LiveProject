@@ -78,7 +78,7 @@ This section of code will show the results of the user's entries from the shoppi
     </ul>
 {% endfor %}
 
-C# Live Project
+## [C# Live Project]()
 
 I worked as part of a team to update a theater company's website in order to make it more efficient and attractive to potential customers. As part of these overall goals, 
 I created a blog authors section that could highlight a professional reviewer's comments in blog form to promote performances at the theater.
