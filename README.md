@@ -27,6 +27,7 @@ def home(request):
 
 
 # Takes user to page where they can add a guitar to the database
+
 def add_guitar(request):
     form = ShoppingForm(request.POST or None)
     if form.is_valid():
@@ -39,6 +40,7 @@ def add_guitar(request):
     return render(request, "GuitarShopping/addGuitar.html", context)\
 
 # Retrieves all choices for the guitar shopping application
+
 def see_choices(request):
     all_guitars= Guitar.objects.all()
     context = {
@@ -47,6 +49,7 @@ def see_choices(request):
     return render(request, "GuitarShopping/seeChoices.html", context)
 
 # Retrieves one choice for a guitar purchase
+
 def guitar_details(request,_id):
 
     guitar = Guitar.objects.get(id =_id)
