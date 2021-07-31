@@ -78,12 +78,14 @@ This section of code will show the results of the user's entries from the shoppi
     </ul>
 {% endfor %}
 
-## [C# Live Project]()
+## [C# Live Project](https://github.com/rmccabe62/LiveProject/blob/master/TheaterCMS/TheatreCMS3/Views/Home/About.cshtml)
 
 I worked as part of a team to update a theater company's website in order to make it more efficient and attractive to potential customers. As part of these overall goals, 
 I created a blog authors section that could highlight a professional reviewer's comments in blog form to promote performances at the theater.
 
-1. Created a blog authors index page
+1. Created an about page giving the theater's information such as casting information for performances.
+
+2. Created a blog authors index page
 
 This provided a method to save  a blog author's information on a bootstrap card  and save it to the
 blog author's page.
@@ -120,7 +122,7 @@ blog author's page.
                 </div>
                 
                 
- 2. Another task I completed was to use a button that is responsive to a user to see information about a blog author
+ 3. Another task I completed was to use a button that is responsive to a user to see information about a blog author
  and even delete a blog author if so desired by the theater.
  
  <div>
